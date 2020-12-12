@@ -1,0 +1,12 @@
+{
+  "name": "netflixapp",
+  "displayName": "netflixapp",
+  "expo": {
+    "name": "netflixapp",
+    "slug": "netflixapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
