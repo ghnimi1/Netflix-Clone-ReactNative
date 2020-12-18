@@ -5,6 +5,9 @@
     "name": "netflixapp",
     "slug": "netflixapp",
     "version": "1.0.0",
+     "android": {
+      "package": "com.ghnimi.netflixapp"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
